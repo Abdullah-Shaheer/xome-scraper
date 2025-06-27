@@ -46,7 +46,7 @@ This script uses **Selenium WebDriver** to:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/xome-scraper.git
+git clone https://github.com/abdullah-shaheer/xome-scraper.git
 cd xome-scraper
 ```
 2. Install required packages:
